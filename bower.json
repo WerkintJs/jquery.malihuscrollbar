@@ -1,0 +1,10 @@
+{
+    "name":         "jquery.malihuscrollbar",
+    "version":      "0.0.1",
+    "dependencies": {
+        "malihu-custom-scrollbar-plugin": "*"
+    },
+    "main":         [
+        "jquery.malihuscrollbar.js"
+    ]
+}

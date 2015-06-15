@@ -1,0 +1,8 @@
+{
+  "ignored": {
+    "malihu-custom-scrollbar-plugin": true
+  },
+  "renames": {
+    "autoNumeric": "jquery.autonumeric"
+  }
+}
