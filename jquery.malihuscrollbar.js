@@ -1,4 +1,4 @@
 define([
-  'malihu/jquery.mCustomScrollbar',
-  'css!malihu/jquery.mCustomScrollbar',
+  'jquery.mCustomScrollbar',
+  'css!jquery.mCustomScrollbar',
 ], function(){})
